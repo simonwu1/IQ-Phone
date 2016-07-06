@@ -13,6 +13,8 @@
  }
 
  printf ("testing gerrit, github and jenkins\n");
+ printf ("testing gerrit, github and jenkins\n");
+ printf ("testing gerrit, github and jenkins\n");
  printf("\n");
  return 0;
  }
