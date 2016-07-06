@@ -12,6 +12,7 @@
      printf("\narg%d=%s", i, argv[i]);
  }
 
+ printf ("testing gerrit, github and jenkins\n");
  printf("\n");
  return 0;
  }
